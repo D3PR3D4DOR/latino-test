@@ -1,0 +1,24 @@
+{
+  "name": "Latino Test",
+  "version": "1.0.0",
+  "description": "Proveedor exclusivo en Español Latino para NuvioMobile desde PelisPlusHD",
+  "scrapers": [
+    {
+      "id": "pelisplushd",
+      "name": "PelisPlusHD",
+      "description": "Películas y Series Latino - Servidores rápidos (VOE, StreamWish)",
+      "version": "1.0.0",
+      "author": "AdrianJael",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/pelisplushd.js",
+      "enabled": true,
+      "logo": "https://pelisplushd.bz/images/logo/favicon.png",
+      "contentLanguage": [
+        "es"
+      ]
+    }
+  ]
+}
