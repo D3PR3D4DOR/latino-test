@@ -13,7 +13,7 @@
         "movie",
         "tv"
       ],
-      "filename": "providers/pelisplushd.js",
+      "filename": "providers/pelisplushd-provider.js",
       "enabled": true,
       "logo": "https://pelisplushd.bz/images/logo/favicon.png",
       "contentLanguage": [
