@@ -19,6 +19,23 @@
       "contentLanguage": [
         "es"
       ]
+    },
+    {
+      "id": "pelisplushd-test",
+      "name": "PelisPlusHD Test",
+      "description": "Versión de pruebas",
+      "version": "1.0.0-beta",
+      "author": "D3PR3D4D0R",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/test.js",
+      "enabled": true,
+      "logo": "https://pelisplushd.bz/images/logo/favicon.png",
+      "contentLanguage": [
+        "es"
+      ]
     }
   ]
 }
