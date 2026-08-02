@@ -13,7 +13,7 @@
         "movie",
         "tv"
       ],
-      "filename": "providers/pelisplus2.0.js",
+      "filename": "providers/pelisplushd.js",
       "enabled": true,
       "logo": "https://pelisplushd.bz/images/logo/favicon.png",
       "contentLanguage": [
@@ -30,7 +30,7 @@
         "movie",
         "tv"
       ],
-      "filename": "providers/test.js",
+      "filename": "providers/pelisplus2.0.js",
       "enabled": true,
       "logo": "https://pelisplushd.bz/images/logo/favicon.png",
       "contentLanguage": [
